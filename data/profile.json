@@ -1,6 +1,6 @@
 {
   "name": "Kleyson Machado",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "photo": "https://github.com/KleysonMachado/portfolio-js-dio/blob/main/assets/img/my-photo.jpeg",
   "job": "Desenvolvedor Front-End Jr",
   "location": "Brasília - DF",
   "phone": "(61) 98683-5416",
@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/KleysonMachado/portfolio-js-dio/main/assets/img/icons/tools/nodejs.svg"
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/KleysonMachado/portfolio-js-dio/main/assets/img/icons/tools/java.svg"
       },
       {
         "name": "Angular",
@@ -21,7 +21,7 @@
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/KleysonMachado/portfolio-js-dio/main/assets/img/icons/tools/react.svg"
       },
       {
         "name": "Mongodb",
