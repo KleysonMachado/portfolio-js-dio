@@ -42,20 +42,36 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (iniciante"
+    "Inglês (iniciante)"
     
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://kleysonmachado.github.io/js-developer-pokedex/",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://kleysonmachado.github.io/portfolio-js-dio/",
+      "github": true
+    },
+    {
+      "name": "Pós Graduação FACUMINAS em GERENCIAMENTO DE PROJETOS-TI",
+      "url": " ",
+      "github": true
+    },
+    {
+      "name": "Pós Graduação FACUMINAS em BIG DATA (CIÊNCIA DE DADOS)",
+      "url": " ",
+      "github": true
+    },
+    {
+      "name": "Pós Graduação FACUMINAS em DESENVOLVIMENTO DE SISTEMAS COM JAVA",
+      "url": " ",
       "github": true
     }
+    
   ],
   "professionalExperience": [
     {
@@ -70,8 +86,8 @@
     },
     {
       "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "period": "2007 - 2008",
+      "description": "Manutenção na Intranet organizacional do Banco do Brasil Sede I Setor Bancário Sul com utilização de rotinas para atualização MySQL e ajustes de HTML e JavaScript."
     }
   ]
 }
